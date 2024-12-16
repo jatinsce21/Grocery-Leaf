@@ -1,0 +1,17 @@
+/* src/LoginPage.css */
+.logout-button {
+    width: 100%;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 4px;
+    background-color: #dc3545;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-top: 1rem;
+  }
+  
+  .logout-button:hover {
+    background-color: #c82333;
+  }
+  
